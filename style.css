@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0; }
+
+
+    .tittle1 {color: lightsalmon;
+    display: flex;
+justify-content: center;}
+
+    .parrafo1{
+        margin-top: 10px;
+        color: red;
+        display: flex;
+        justify-content: center;
+    }
